@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/appconfig.xml</file>
+        <file>data/python.xml</file>
+        <file>images/eye_closed.png</file>
+        <file>images/eye_opened.png</file>
+    </qresource>
+</RCC>

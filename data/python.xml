@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StandardRules>
+    <Keyword color="#0000FF" bold="false" italic="false">False None True and as assert break class continue def del elif else except finally for from global if import in is lambda nonlocal not or pass raise return try while with yield</Keyword>
+    <MultiLineComment start="'''" end="'''"/>
+    <SingleLineComment regularExpr="#[^\n]*" color="#5F9EA0" bold="false" italic="false"/>
+    <FunctionOrClass regularExpr="\b[A-Za-z0-9_]+(?=\()" color="#00AAFF" bold="false" italic="true"/>
+    <String color="#008000" bold="false" italic="false">'[^']*['|$] \"[^\"]*[\"|?$]</String>
+</StandardRules>

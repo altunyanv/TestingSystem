@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>design.xml</file>
+        <file>highlight_rules.xml</file>
+    </qresource>
+</RCC>

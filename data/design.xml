@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Configuration>
+    <DatabaseName>data\\donttouchthisfile.db</DatabaseName>
+    <Admin>
+        <Login>admin</Login>
+        <Password>admin</Password>
+    </Admin>
+</Configuration>

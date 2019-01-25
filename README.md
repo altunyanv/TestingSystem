@@ -18,7 +18,7 @@ And after writing and submittiong the code the checking process starts...
 
 ## Checking
 When solution is submitted the process is created. It runs python code which checks for compilation errors in our solution. If there is error then message (trans. "compilation... There are some errors in code!") is shown and process is ended. If everything is OK then process runs another program which checks our solution over all the testcases of the problem. Then process ends and if all testcases passed successfully then the message is shown (trans. "Accepted... Solution was checked, all the testcases passed successfully"). If some of testcases were unsuccessful then also a message is shown (trans. "Near... Some of testcases didn't pass"). 
-At this moment system can check solutions only in python language (if there are python files in users computer :D).
+At this moment system can check solutions only in python language (if there are python files in users computer).
 
 ## Syntax highlighting
 All the keywords and their styling rules are kept in xml file. There is also regexp rules for string and comment (also multiline) recognition, so the template should be the same for other languages and adding syntax highlighting for new languages will be a lot easier.
